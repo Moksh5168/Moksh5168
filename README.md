@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **opensource contribute.**
 
-- 🤝 I’m looking for help with **finding job and freelancing work.**
+- 🤝 I’m looking for **finding job and freelancing work.**
 
 - 💬 Ask me about **Javascript,Python,CSS,HTML**
 
